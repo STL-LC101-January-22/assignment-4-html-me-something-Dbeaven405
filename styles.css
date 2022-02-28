@@ -1,1 +1,28 @@
 /* Write your CSS here! */
+
+h1{
+    color:#333533;
+    font-family:'Playfair Display', serif;
+    font-size: 100px;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-size: 60px;
+    font-family:'Playfair Display', serif;
+    color:#333533;
+}
+
+body{
+    background-color: #a4ac86;
+}
+
+.center {
+    text-align: center;
+    list-style-position: inside;
+    font-size: 60px;
+    font-family:'Playfair Display', serif;
+    color:#333533;
+   
+  }
