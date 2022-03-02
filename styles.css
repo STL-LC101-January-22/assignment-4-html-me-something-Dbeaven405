@@ -5,13 +5,27 @@ h1{
     font-family:'Playfair Display', serif;
     font-size: 100px;
     text-align: center;
+    margin: 1px
 }
 
 h2{
+    margin: 20px;
     text-align: center;
     font-size: 50px;
     font-family:'Playfair Display', serif;
     color:#333533;
+}
+
+.history{
+    font-size: 50px;
+    text-align: center;
+    color: #333533;
+    font-family:'Playfair Display', serif;
+}
+
+#info{
+font-size: 25px
+
 }
 
 body{
@@ -24,5 +38,23 @@ body{
     font-size: 35px;
     font-family:'Playfair Display', serif;
     color:#333533;
+    margin: 0;
+    padding:0;
    
+  }
+
+  #btn1 {
+    background-color: #97a598; /* Green */
+    border: none;
+    color: #333533;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+  }
+  
+  centerP{
+      text-align: center;
   }
