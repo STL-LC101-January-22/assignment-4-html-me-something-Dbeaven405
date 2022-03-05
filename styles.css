@@ -30,6 +30,7 @@ font-size: 25px
 
 body{
     background-color: #a4ac86;
+    margin: 9px;
 }
 
 .center {
@@ -83,4 +84,8 @@ body{
 
  li a:hover {
     background-color: rgb(81, 22, 22);
+ }
+
+ .mainHeading{
+     color: red;
  }
