@@ -8,6 +8,11 @@ h1{
     margin: 1px
 }
 
+body{
+    margin: 8px;
+    display: block;
+}
+
 h2{
     margin: 20px;
     text-align: center;
@@ -88,4 +93,12 @@ body{
 
  .mainHeading{
      color: red;
+ }
+
+ .testP{
+     color: green;
+ }
+
+ #funParagraph{
+   color: green;
  }
