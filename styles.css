@@ -35,7 +35,9 @@ font-size: 25px
 
 body{
     background-color: #a4ac86;
-    margin: 9px;
+    margin: 8px;
+    display: block;
+
 }
 
 .center {
